@@ -193,6 +193,7 @@ DJANGO_APPS = (
 )
 
 THIRD_PARTY_APPS = (
+    'debug_toolbar',
 )
 
 # Apps specific for this project go here.
